@@ -9,14 +9,20 @@ a simple flappybird-like game run on C-SKY gx6605s dev board
 * [Introduction](#introduction)
 * [Compile and Run](#compile-and-run)
 
+---
+
 ### Hardware Requirement
 
 * [C-SKY gx6605s dev board](https://c-sky.github.io/docs/gx6605s.html "C-SKY gx6605s dev board")
 * Another device to run an UART console (like [PuTTY](https://putty.org "PuTTY") etc.)
 
+---
+
 ### Introduction
 
 // TODO: Introduction
+
+---
 
 ### Compile and Run
 * on Ubuntu 16.04
