@@ -7,7 +7,7 @@ a simple flappybird-like game run on C-SKY gx6605s dev board
 ## Catalog
 * [Hardware Requirement](#hardware-requirement)
 * [Introduction](#introduction)
-* [Compile](#compile)
+* [Compile and Run](#compile-and-run)
 
 ### Hardware Requirement
 
@@ -18,6 +18,13 @@ a simple flappybird-like game run on C-SKY gx6605s dev board
 
 // TODO: Introduction
 
-### Compile
-
-// TODO: Compile
+### Compile and Run
+* on Ubuntu 16.04
+```Bash
+csky-linux-gcc flappyBirdByCSY.c -lpthread -o out flappy8659
+```
+Then mv the output file to board.
+* on board
+```Bash
+./flappy8659
+```
