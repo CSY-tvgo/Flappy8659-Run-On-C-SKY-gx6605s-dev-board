@@ -12,7 +12,7 @@ a simple flappybird-like game run on C-SKY gx6605s dev board
 ### Hardware Requirement
 
 * [C-SKY gx6605s dev board](https://c-sky.github.io/docs/gx6605s.html "C-SKY gx6605s dev board")
-* Another device to run an UART console (like [PuTTY](https://putty.orgl "PuTTY") etc.)
+* Another device to run an UART console (like [PuTTY](https://putty.org "PuTTY") etc.)
 
 ### Introduction
 
