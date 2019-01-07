@@ -2,7 +2,7 @@ Flappy8659-Run-On-C-SKY-gx6605s-dev-board
 ===
 a simple flappybird-like game run on C-SKY gx6605s dev board
 
-<img src="assets/游戏页面.png" width="50%" height="50%">
+<img src="assets/首页截图（离线版本）.png" width="50%" height="50%">
 
 ## Catalog
 * [Hardware Requirement](#hardware-requirement)
