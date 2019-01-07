@@ -17,22 +17,14 @@ a simple flappybird-like game run on C-SKY gx6605s dev board
 ## Introduction
 
 Main menu.
-
 <img src="assets/首页截图（离线版本）.png" width="50%" height="50%">
-
 Press the button '8' or '6' or '5' or '9' on dev board to start the game.
-
 <img src="assets/游戏页面.png" width="50%" height="50%">
-
 Press the button to let correspond bird('8','6','5','9') fly higher. 
-Dodge the pipes('#').
-
+Dodge the pipes('X').
 <img src="assets/结束页面.png" width="50%" height="50%">
-
 If the bird crash something, it will die.
 (This picture was taken in Online version. The code in this repository is Offline version.)
-
-
 
 ## Compile and Run
 * Compile (on Ubuntu 16.04)
