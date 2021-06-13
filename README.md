@@ -4,7 +4,7 @@ a simple flappybird-like game run on C-SKY gx6605s dev board
 
 <img src="assets/play.png" width="50%" height="50%">
 
-# Catalog
+# Contents
 * [Hardware Requirement](#hardware-requirement)
 * [Introduction](#introduction)
 * [Compile and Run](#compile-and-run)
